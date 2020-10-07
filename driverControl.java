@@ -13,7 +13,7 @@ import com.qualcomm.robotcore.hardware.Servo;
 
 import java.sql.Driver;
 
-@TeleOp(name="DriverControl3", group="Linear Opmode")
+@TeleOp(name="driverControl", group="Linear Opmode")
 //@Disabled
 
 public class DriverControl3 extends LinearOpMode {
